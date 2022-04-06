@@ -1,0 +1,28 @@
+body{
+    background-color: whitesmoke; font: 16px;font-family: Arial, Helvetica, sans-serif;
+}
+#principal{
+ width: 820px;   
+}
+#menu{
+   padding: 18px;
+}
+a{
+    color:blue;
+    font-weight: bold;
+    padding: 20px;
+}
+#conteudo{
+    padding: 10px;
+    color: cadetblue;
+    font: 18px bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.centralizar{
+    text-align: center;
+    color: cornflowerblue;
+}
+h1{
+    color: cadetblue;
+    font-size: 1.2em;
+}
